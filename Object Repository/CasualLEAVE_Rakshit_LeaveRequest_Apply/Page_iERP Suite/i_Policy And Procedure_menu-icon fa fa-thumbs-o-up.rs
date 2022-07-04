@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Policy And Procedure_menu-icon fa fa-thumbs-o-up</name>
+   <tag></tag>
+   <elementGuidId>8b7102eb-8f7e-4ae5-b63c-812d0655f93e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@class='dropdown-toggle'])[15]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.menu-icon.fa.fa-thumbs-o-up</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>566b1439-4e1e-4969-9217-c0e4e26e16c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-icon fa fa-thumbs-o-up</value>
+      <webElementGuid>e10b4534-49e2-463b-b571-39da686ac3e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Modules&quot;)/li[@class=&quot;hover hover-show hover-shown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/i[@class=&quot;menu-icon fa fa-thumbs-o-up&quot;]</value>
+      <webElementGuid>f599572a-5135-4361-980f-ffe22970ab89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Modules']/li[11]/a/i</value>
+      <webElementGuid>e16f9531-b782-4c5a-837a-89e33da4fdd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/a/i</value>
+      <webElementGuid>84d62dc3-99cf-4d3d-a8ba-24adef026c80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

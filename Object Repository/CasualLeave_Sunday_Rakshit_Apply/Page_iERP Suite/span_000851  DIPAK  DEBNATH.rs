@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_000851  DIPAK  DEBNATH</name>
+   <tag></tag>
+   <elementGuidId>25d4bf79-ac15-4d52-b324-fe877d4a2420</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ddlEmpId_chosen']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.chosen-single > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9d389604-54d1-4e40-bb40-a2cea627a5eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>000851 ~ DIPAK ~ DEBNATH</value>
+      <webElementGuid>c39a48b1-dc32-4c88-a8d2-0d569e592f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlEmpId_chosen&quot;)/a[@class=&quot;chosen-single&quot;]/span[1]</value>
+      <webElementGuid>35afb371-2ba4-47f6-9104-bad205e2f301</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ddlEmpId_chosen']/a/span</value>
+      <webElementGuid>33eca2f0-c722-4ef3-8f66-61adb75c765a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>3dd58a99-e589-4cd6-b39b-3af18ecfc6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Select-'])[2]/preceding::span[1]</value>
+      <webElementGuid>cce50b9d-fa09-487e-a857-8a5e50ead287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::span[1]</value>
+      <webElementGuid>7830ee3b-6272-4773-bb76-8074f2258ee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span</value>
+      <webElementGuid>11df8f1a-444a-4c89-97f6-48abac0d5c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '000851 ~ DIPAK ~ DEBNATH' or . = '000851 ~ DIPAK ~ DEBNATH')]</value>
+      <webElementGuid>6dbcfdf2-83d5-4748-96df-8fb7853af228</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

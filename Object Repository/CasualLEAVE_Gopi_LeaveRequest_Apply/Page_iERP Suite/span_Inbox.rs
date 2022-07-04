@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Inbox</name>
+   <tag></tag>
+   <elementGuidId>28731578-105e-4478-b354-f8e42beb4af3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Modules']/li[11]/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.submenu.can-scroll > li.hover.hover-show.hover-shown > a > span.menu-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d9848a60-c5a6-47fa-9bb3-75408e8cdf5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-text</value>
+      <webElementGuid>56c733e7-9a52-46d1-886f-988f1c966d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inbox</value>
+      <webElementGuid>dc075bb6-8aac-4caf-9897-910878fbf0e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Modules&quot;)/li[@class=&quot;hover hover-show hover-shown&quot;]/ul[@class=&quot;submenu can-scroll&quot;]/li[@class=&quot;hover hover-show hover-shown&quot;]/a[1]/span[@class=&quot;menu-text&quot;]</value>
+      <webElementGuid>a2d0da6e-4e97-4663-8498-6ca93c18df3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Modules']/li[11]/ul/li/a/span</value>
+      <webElementGuid>a3bab852-c8c1-4bf2-b687-70e298d6c8dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Inbox'])[1]/following::span[1]</value>
+      <webElementGuid>a6b70ca3-d123-4c8b-8a8e-7dc80fd60995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Policy And Procedure'])[1]/following::span[2]</value>
+      <webElementGuid>426da9d1-bc6c-4da3-afba-15a62efca0c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/preceding::span[1]</value>
+      <webElementGuid>99a4f25e-ef25-4a2d-9e57-8f41d8551738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket Summary'])[1]/preceding::span[2]</value>
+      <webElementGuid>03ac2b7e-e257-4915-b652-3bd44f404e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inbox']/parent::*</value>
+      <webElementGuid>ed2be332-b8bd-46a9-8086-3efb6d2d32a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/ul/li/a/span</value>
+      <webElementGuid>b022bb64-df71-4025-adf9-069aab3e435a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Inbox' or . = 'Inbox')]</value>
+      <webElementGuid>1458c418-4c9d-4602-95cc-aa6c167dc6b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Choose Action_ulAction</name>
+   <tag></tag>
+   <elementGuidId>1774afdc-e6ed-4ab5-8d50-2b79542dbdea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='ulAction']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ulAction</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>00138566-0bf7-4afa-ba8f-b85dc1bdc1d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-menu dropdown-success</value>
+      <webElementGuid>4ada92a1-fb2a-450b-b886-7777812c8af1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ulAction</value>
+      <webElementGuid>775f9c3e-46b3-4c0d-af6c-a735876e2210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ulAction&quot;)</value>
+      <webElementGuid>b8a23d62-7281-4256-85ef-8358213f06fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//ul[@id='ulAction']</value>
+      <webElementGuid>af2c3ba6-60a6-4b9a-8f33-1028fca1ee3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divAction']/ul</value>
+      <webElementGuid>e76d375d-174d-4273-8187-40610b2c13db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Action'])[1]/following::ul[1]</value>
+      <webElementGuid>e63b24b6-6557-4cd3-8683-c81c3c03c8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::ul[1]</value>
+      <webElementGuid>43719ef1-bf91-48dc-b541-e3da364bf19f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2021 Idea Infinity IT Solutions Pvt. Ltd.(TSECL V 3.9.8)'])[1]/preceding::ul[1]</value>
+      <webElementGuid>9f91cd63-1e08-405e-8691-ca6d298f39f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul</value>
+      <webElementGuid>2678877f-6489-4a9e-b9b4-ed9cf830d149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[@id = 'ulAction']</value>
+      <webElementGuid>baa21bb9-e6ff-4871-a82d-841a05a46064</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CasualLeave_Rakshit_Approval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d892586b-0757-4c40-92fa-9705d54c9904</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>072add10-3950-407c-aa74-4cc2096ef55d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f98bb26-6c27-42d1-9992-c5316f368e18</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(1, 2)</defaultValue>
+      <description></description>
+      <id>072add10-3950-407c-aa74-4cc2096ef55d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(2, 2)</defaultValue>
+      <description></description>
+      <id>6f98bb26-6c27-42d1-9992-c5316f368e18</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

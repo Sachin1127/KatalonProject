@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_-Select-</name>
+   <tag></tag>
+   <elementGuidId>0a0616d6-17b9-4a1b-8b53-d14d19a586ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ddlLeaveType_chosen']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ddlLeaveType_chosen > a.chosen-single > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6737afde-17e1-4ab1-9327-f28403a1b59e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-Select-</value>
+      <webElementGuid>67b6996b-fc85-41ae-9bda-024c6579d417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlLeaveType_chosen&quot;)/a[@class=&quot;chosen-single&quot;]/span[1]</value>
+      <webElementGuid>46b93a25-4671-46a5-bfb7-4abbc782aa5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ddlLeaveType_chosen']/a/span</value>
+      <webElementGuid>442a2c28-fa48-4ff6-91be-270682dfd3b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[1]</value>
+      <webElementGuid>f808c6b0-1ce3-45c4-af5e-1c9ea664d65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Select-'])[7]/preceding::span[1]</value>
+      <webElementGuid>f5982d47-1a83-42f4-859a-8cbe58624d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CASUAL LEAVE'])[2]/preceding::span[1]</value>
+      <webElementGuid>e4166974-856a-4d1f-b1c4-e56b81b9892b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/span</value>
+      <webElementGuid>4a122376-e658-477d-8e22-24a0b26d7746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '-Select-' or . = '-Select-')]</value>
+      <webElementGuid>84395e33-1f34-4f12-86a3-61dc88395695</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

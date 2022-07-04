@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_-Select-</name>
+   <tag></tag>
+   <elementGuidId>a0cdcddf-43ca-4bb1-9168-a1f587da809c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ddlLeaveGround_chosen']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ddlLeaveGround_chosen > a.chosen-single</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3b9235ad-1551-4f35-b1d4-c0af42938449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-single</value>
+      <webElementGuid>29fd3807-9853-4b64-849c-2a1e8e2c7508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  -Select-
+  
+</value>
+      <webElementGuid>f42fd184-26a7-4ec7-87f5-075c2d12cd9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlLeaveGround_chosen&quot;)/a[@class=&quot;chosen-single&quot;]</value>
+      <webElementGuid>07123e41-cf47-4036-8c88-7dff0cc771d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ddlLeaveGround_chosen']/a</value>
+      <webElementGuid>9578610c-fea0-484e-8f1d-b1f11b68a8b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::a[1]</value>
+      <webElementGuid>d65bdbe2-e269-44b6-b1a5-9378672b6d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Select-'])[5]/preceding::a[1]</value>
+      <webElementGuid>101a5f39-361e-4ecf-94a1-1023fe148ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>73c4378c-b6e1-41ad-a26b-c010567d587c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+  -Select-
+  
+' or . = '
+  -Select-
+  
+')]</value>
+      <webElementGuid>7d31a4d0-6fa9-42b7-9933-c010528461af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
