@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CasualLeave_Approval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>005e36bc-92ce-48b1-991c-7d78336c6557</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f3c40fa6-852d-48dd-bdf0-a77c6794f2c5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>263ce332-e823-4c7f-abc5-7f0140979b47</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8682818-d7cb-41e6-a8ae-90be7f3ef60f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>f3c40fa6-852d-48dd-bdf0-a77c6794f2c5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>263ce332-e823-4c7f-abc5-7f0140979b47</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>e8682818-d7cb-41e6-a8ae-90be7f3ef60f</id>
+      <masked>false</masked>
+      <name>Reason</name>
+   </variable>
+</TestCaseEntity>

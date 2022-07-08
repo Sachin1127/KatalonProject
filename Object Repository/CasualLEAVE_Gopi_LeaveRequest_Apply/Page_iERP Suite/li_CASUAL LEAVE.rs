@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>bba3202b-9ca0-4b17-a18f-3a0cd94af921</webElementGuid>
+      <webElementGuid>3b4763df-22d9-4d2d-b2a5-90a6f597dad8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>active-result result-selected</value>
-      <webElementGuid>7d26c408-60b7-49cc-ab47-9d20bacba9cb</webElementGuid>
+      <webElementGuid>b92c2ac7-4060-4248-9103-06ff0033cd01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>data-option-array-index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>e3837941-f477-4073-aad9-77c265a4e19f</webElementGuid>
+      <webElementGuid>d835d8fa-6842-459a-9651-729b7ea597c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>CASUAL LEAVE</value>
-      <webElementGuid>296fe924-e2bb-4011-8c4b-e04a6989c0ed</webElementGuid>
+      <webElementGuid>cc7b8b32-cbf0-4207-bf81-96e29cdf67cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ddlLeaveType_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;active-result result-selected&quot;]</value>
-      <webElementGuid>c70a7067-1b62-450a-bf9f-a9d85bfebf49</webElementGuid>
+      <webElementGuid>c8ddd91e-cd14-4a3b-a85f-d33b6c0e374e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ddlLeaveType_chosen']/div/ul/li[2]</value>
-      <webElementGuid>66aadce4-cd6d-413d-85da-bb3ebf208553</webElementGuid>
+      <webElementGuid>40381139-d9c7-4434-ad68-74255e4e7bfe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-Select-'])[6]/following::li[1]</value>
-      <webElementGuid>c2871b59-42fc-4bb1-9914-4268b2724c41</webElementGuid>
+      <webElementGuid>3dfa4cdb-1bdb-4b50-bc3f-878f69d464f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CASUAL LEAVE'])[2]/following::li[2]</value>
-      <webElementGuid>4f33c51f-3e00-477d-8722-4963aa270376</webElementGuid>
+      <webElementGuid>22d56f38-d71d-4b61-b76c-62ead272ca35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EARNED LEAVE'])[2]/preceding::li[1]</value>
-      <webElementGuid>665a432c-999a-45ca-8818-5f2241ff64c7</webElementGuid>
+      <webElementGuid>19992344-3bb6-4cc4-ad5b-42040f8e58b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HALF PAY LEAVE'])[2]/preceding::li[2]</value>
-      <webElementGuid>7b1b748e-5b8d-404f-8b40-1a23494e459a</webElementGuid>
+      <webElementGuid>fdbb37b0-e19e-456b-9436-379f5e94cba8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/ul/li[2]</value>
-      <webElementGuid>664e4481-ec2c-4f85-b47a-5498d305b8d0</webElementGuid>
+      <webElementGuid>568aeb55-b98f-45f7-962e-da9414765b06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'CASUAL LEAVE' or . = 'CASUAL LEAVE')]</value>
-      <webElementGuid>d64af9dd-9994-4f34-afdc-09bb43a2d821</webElementGuid>
+      <webElementGuid>b2dd0de2-d287-42f6-97a4-ab7ae4f5a9e8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

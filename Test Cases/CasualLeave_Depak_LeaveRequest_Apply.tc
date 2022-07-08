@@ -17,6 +17,12 @@
       <value></value>
       <variableId>2a5e102b-f923-4e1f-a200-84b46eaaed19</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a28eacaa-f958-4c2a-b3b0-3782ba36453b</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>findTestData('TestCase').getValue(1, 1)</defaultValue>
       <description></description>
@@ -30,5 +36,12 @@
       <id>2a5e102b-f923-4e1f-a200-84b46eaaed19</id>
       <masked>false</masked>
       <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>a28eacaa-f958-4c2a-b3b0-3782ba36453b</id>
+      <masked>false</masked>
+      <name>reason</name>
    </variable>
 </TestCaseEntity>

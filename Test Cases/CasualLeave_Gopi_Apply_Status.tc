@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CasualLeave_Gopi_Apply_Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94dbe18b-0191-445c-93ec-17cfc7d15a41</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f07c4edb-7417-4bea-b9fc-a43561339937</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b15dc5c-f4ed-4fac-bc72-d6d4ce8f3de0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>f07c4edb-7417-4bea-b9fc-a43561339937</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>9b15dc5c-f4ed-4fac-bc72-d6d4ce8f3de0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

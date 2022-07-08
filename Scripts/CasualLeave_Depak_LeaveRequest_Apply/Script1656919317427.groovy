@@ -73,7 +73,7 @@ WebUI.click(findTestObject('Object Repository/CasualLEAVE_Depak_LeaveRequest_App
 WebUI.click(findTestObject('Object Repository/CasualLEAVE_Depak_LeaveRequest_Apply/Page_iERP Suite/a_1'))
 
 WebUI.setText(findTestObject('Object Repository/CasualLEAVE_Depak_LeaveRequest_Apply/Page_iERP Suite/textarea__LeaveReason'), 
-    'Sick Leave')
+    reason)
 
 WebUI.scrollToPosition(0, 100)
 

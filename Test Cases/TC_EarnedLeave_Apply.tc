@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_EarnedLeave_Apply</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a6d7639-e716-467f-9540-919dcf8ccecc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95a42056-2de6-4712-85f3-fd958f73ece4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>572ce475-e58f-4713-890e-2e84931fdc54</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>332ae164-76b2-4246-a43d-f79329627f8a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0cb61835-d7b8-426e-8d14-93f2a4dbe066</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d26e273-023d-4563-95d1-52a66a0bd4aa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>95a42056-2de6-4712-85f3-fd958f73ece4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>572ce475-e58f-4713-890e-2e84931fdc54</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>332ae164-76b2-4246-a43d-f79329627f8a</id>
+      <masked>false</masked>
+      <name>reason</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>0cb61835-d7b8-426e-8d14-93f2a4dbe066</id>
+      <masked>false</masked>
+      <name>StartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>0d26e273-023d-4563-95d1-52a66a0bd4aa</id>
+      <masked>false</masked>
+      <name>EndDate</name>
+   </variable>
+</TestCaseEntity>

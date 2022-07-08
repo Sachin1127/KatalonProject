@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://192.168.6.18:501/')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/CasualLeave_Sunday_Rakshit_Apply/Page_ERP/input_Login_LoginName'), '000851')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/CasualLeave_Sunday_Rakshit_Apply/Page_ERP/input_Login_Password'), 
@@ -62,6 +64,8 @@ WebUI.click(findTestObject('Object Repository/CasualLeave_Sunday_Rakshit_Apply/P
 
 WebUI.setText(findTestObject('Object Repository/CasualLeave_Sunday_Rakshit_Apply/Page_iERP Suite/textarea__LeaveReason'), 
     'Sick Leave')
+
+WebUI.scrollToPosition(0, 100)
 
 WebUI.click(findTestObject('Object Repository/CasualLeave_Sunday_Rakshit_Apply/Page_iERP Suite/button_Choose Action'))
 

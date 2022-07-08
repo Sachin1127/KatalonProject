@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ERP_LeaveRequest_EarnedLeave_Approval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe3b3b73-52f2-41ae-8f82-fe3535bb1133</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4478698e-7e50-4677-a77a-5360c3c2bfc8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d43954c-1bc2-4c02-804f-b9a0ed5414c5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(1, 2)</defaultValue>
+      <description></description>
+      <id>4478698e-7e50-4677-a77a-5360c3c2bfc8</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestCase').getValue(2, 2)</defaultValue>
+      <description></description>
+      <id>2d43954c-1bc2-4c02-804f-b9a0ed5414c5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

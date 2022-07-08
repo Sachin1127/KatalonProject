@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_db</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73f5c17b-b387-48db-9bb9-d1d3494cb35f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f390493f-ba55-4154-8c63-3c35c83b16cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5319e212-6297-4044-82f3-080be9021ec6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6ebd637-a256-4df8-81f1-65243a548f63</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'192.168.4.25'</defaultValue>
+      <description></description>
+      <id>f390493f-ba55-4154-8c63-3c35c83b16cb</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'postgres'</defaultValue>
+      <description></description>
+      <id>5319e212-6297-4044-82f3-080be9021ec6</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Idea@12345+'</defaultValue>
+      <description></description>
+      <id>d6ebd637-a256-4df8-81f1-65243a548f63</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
